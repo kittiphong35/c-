@@ -1,0 +1,14 @@
+C:\c#\week2\ex3\bin\Debug\net7.0\ex3.exe
+C:\c#\week2\ex3\bin\Debug\net7.0\ex3.deps.json
+C:\c#\week2\ex3\bin\Debug\net7.0\ex3.runtimeconfig.json
+C:\c#\week2\ex3\bin\Debug\net7.0\ex3.dll
+C:\c#\week2\ex3\bin\Debug\net7.0\ex3.pdb
+C:\c#\week2\ex3\obj\Debug\net7.0\ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\week2\ex3\obj\Debug\net7.0\ex3.AssemblyInfoInputs.cache
+C:\c#\week2\ex3\obj\Debug\net7.0\ex3.AssemblyInfo.cs
+C:\c#\week2\ex3\obj\Debug\net7.0\ex3.csproj.CoreCompileInputs.cache
+C:\c#\week2\ex3\obj\Debug\net7.0\ex3.dll
+C:\c#\week2\ex3\obj\Debug\net7.0\refint\ex3.dll
+C:\c#\week2\ex3\obj\Debug\net7.0\ex3.pdb
+C:\c#\week2\ex3\obj\Debug\net7.0\ex3.genruntimeconfig.cache
+C:\c#\week2\ex3\obj\Debug\net7.0\ref\ex3.dll

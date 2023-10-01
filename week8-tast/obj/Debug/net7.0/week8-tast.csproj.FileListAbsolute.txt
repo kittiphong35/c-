@@ -1,0 +1,14 @@
+C:\c#\week8-tast\obj\Debug\net7.0\week8-tast.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\week8-tast\obj\Debug\net7.0\week8-tast.AssemblyInfoInputs.cache
+C:\c#\week8-tast\obj\Debug\net7.0\week8-tast.AssemblyInfo.cs
+C:\c#\week8-tast\obj\Debug\net7.0\week8-tast.csproj.CoreCompileInputs.cache
+C:\c#\week8-tast\bin\Debug\net7.0\week8-tast.exe
+C:\c#\week8-tast\bin\Debug\net7.0\week8-tast.deps.json
+C:\c#\week8-tast\bin\Debug\net7.0\week8-tast.runtimeconfig.json
+C:\c#\week8-tast\bin\Debug\net7.0\week8-tast.dll
+C:\c#\week8-tast\bin\Debug\net7.0\week8-tast.pdb
+C:\c#\week8-tast\obj\Debug\net7.0\week8-tast.dll
+C:\c#\week8-tast\obj\Debug\net7.0\refint\week8-tast.dll
+C:\c#\week8-tast\obj\Debug\net7.0\week8-tast.pdb
+C:\c#\week8-tast\obj\Debug\net7.0\week8-tast.genruntimeconfig.cache
+C:\c#\week8-tast\obj\Debug\net7.0\ref\week8-tast.dll
